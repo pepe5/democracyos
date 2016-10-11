@@ -251,5 +251,8 @@
         "always"
       ]
     }
+  },
+  "browser": {
+    "lib/config" : "lib/config/config"
   }
 }
